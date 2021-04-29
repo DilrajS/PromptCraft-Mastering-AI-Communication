@@ -28,7 +28,8 @@ In terms of potential bias, the dataset could be subject to collection bias. The
 An unintended consequence of our analysis could result in the over generalization of a music genre’s attribute boundaries. We attempted to define the boundaries for ‘acousticness’, ‘danceability’, ‘instrumentalness’, ‘tempo’, and ‘energy’ for each genre, however our findings may not be conclusive enough to claim that we can accurately categorize songs based on these qualities.
 
 ### Results
-Average Instrumentalness Across Genres:
+_Average Instrumentalness Across Genres:_
+
 ![Average Instrumentalness Across Genres](images/AverageInstrumentalness.png)
 
 If one has a good model, it is possible to predict trends in genres, it should also be possible to predict genres based on trends.
