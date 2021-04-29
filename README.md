@@ -30,4 +30,5 @@ An unintended consequence of our analysis could result in the over generalizatio
 ### Results
 Average Instrumentalness Across Genres:
 ![Average Instrumentalness Across Genres](images/AverageInstrumentalness.png)
+
 If one has a good model, it is possible to predict trends in genres, it should also be possible to predict genres based on trends.
