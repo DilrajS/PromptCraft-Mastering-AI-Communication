@@ -1,8 +1,8 @@
 # Music-Genre-Analysis
 ![](https://github.com/DilrajS/Music-Genre-Analysis/blob/master/images/DoE.png)
-## Overview
+### Overview
 In this project we gathered information regarding song audio attributes using a dataset from the Spotify API. We utilized this dataset to find trends in audio attributes across different music genres and analyze which attributes are significant in defining boundaries between genres. From there we attempted to create a model that can predict a song’s genre based on these significant attributes.
-## Research Question
+# Research Question
 Is there a correlation between different attributes of a song and it’s music genre? Can we predict trends in attributes (i.e. danceability, energy, etc.) within different music genres?
 ## Background and Prior Work
 Traditionally, music is separated into specific genres. People are familiar with common genres such as country, hip-hop, classical, and beyond, however as music continues to evolve, the lines between genres become more blurred. A recent example of this is Lil Nas X’s song ‘Old Town Road’, a country song with rap elements. ‘Old Town Road’ was removed from Billboard’s ‘Top Country Songs’ chart because Billboard determined that the song itself wasn’t representative enough of Country elements to be included on the ranking. From this instance we can see that it can be difficult to define the boundaries of where one genre ends and another begins.
