@@ -1,4 +1,5 @@
 # Music-Genre-Analysis
+![](https://github.com/DilrajS/Music-Genre-Analysis/blob/master/images/DoE.png)
 ## Overview
 In this project we gathered information regarding song audio attributes using a dataset from the Spotify API. We utilized this dataset to find trends in audio attributes across different music genres and analyze which attributes are significant in defining boundaries between genres. From there we attempted to create a model that can predict a song’s genre based on these significant attributes.
 ## Research Question
@@ -25,3 +26,8 @@ The Spotify dataset we are using originated from user Zaheen Hamidani on 'kaggle
 
 In terms of potential bias, the dataset could be subject to collection bias. The dataset contains information for over 228,159 songs however the number of songs represented per genre is not even. We saw this in the Data Cleaning section where the Comedy genre had 9681 songs, while the A Capella genre had only 119 songs. Though we removed the A Capella genre due to its underrepresentation, the slight difference in representations across genres could still affect how we interpret our analysis. Despite the outlier genre of A Capella, the remaining genres are within ~1500 entries of one another which gives validity when making our interpretations.
 An unintended consequence of our analysis could result in the over generalization of a music genre’s attribute boundaries. We attempted to define the boundaries for ‘acousticness’, ‘danceability’, ‘instrumentalness’, ‘tempo’, and ‘energy’ for each genre, however our findings may not be conclusive enough to claim that we can accurately categorize songs based on these qualities.
+
+### Results
+Average Instrumentalness Across Genres:
+![Average Instrumentalness Across Genres](images/AverageInstrumentalness.png)
+If one has a good model, it is possible to predict trends in genres, it should also be possible to predict genres based on trends.
