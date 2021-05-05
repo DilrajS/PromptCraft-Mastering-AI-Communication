@@ -33,3 +33,10 @@ _Average Instrumentalness Across Genres:_
 ![Average Instrumentalness Across Genres](images/AverageInstrumentalness.png)
 
 If one has a good model, it is possible to predict trends in genres, it should also be possible to predict genres based on trends.
+
+### How to run locally
+1.	Go to https://colab.research.google.com (Internet connection and Gmail account required)
+2.	Select “GitHub” in the open window and paste in this URL to copy the project 
+3.	Next download the dataset(s) used and upload it on Google Colab by clicking on the ‘Files’ icon on the left-hand side of the screen
+4.	Click ‘Runtime’ and select ‘Run all’  
+
