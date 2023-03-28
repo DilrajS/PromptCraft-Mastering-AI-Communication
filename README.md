@@ -12,8 +12,6 @@ Traditionally, music is separated into specific genres. People are familiar with
 
 Previous studies have been conducted to attempt genre prediction from song attributes. One machine learning study from the University of Rome Tor Vergata tried to classify music genres using MIDI files and analyzed the instrumentation composition of songs (https://pdfs.semanticscholar.org/e214/5add1318af0654a4901fe92080bc8168a9f4.pdf). Another independent study by Victor Ramirez utilized K-Means Clustering to categorize music genres. Ramirez separated songs into different 8 K-Means labels (i.e., Fast & Danceable Instrumentals, Slow Dance, Happy & Upbeat Instrumentals, Slow & Somber Acoustics) and analyzed the audio attributes within each label to find trends (https://medium.com/latinxinai/discovering-descriptive-music-genres-using-k-means-clustering-d19bdea5e443).
 
-Using the findings from these studies, we believe that the audio attributes significant in predicting a song’s genre are ‘acousticness’, ‘instrumentalness’, ‘danceability’, ‘tempo’, and ‘energy’. We believe ‘acousticness’ and ‘instrumentalness’ can predict a song’s genre as the University of Rome Tor Vergata study was able to classify genres through instrumentation. Similarly, we also believe that ‘danceability’, ‘tempo’, and ‘energy’ can be used to predict a song’s genre as Ramirez was also able to highlight differences across categories based on these audial features.
-
 ### Hypothesis
 Based on the unique audial characteristics that define each music genre, it is hypothesized that certain audio attributes will exhibit significant differences across genres, enabling the establishment of genre boundaries and the ability to predict a song's genre. Specifically, attributes such as 'acousticness', 'danceability', 'instrumentalness', 'tempo', and 'energy' are expected to be key factors in determining a song's genre. This hypothesis is grounded in the premise that for significant differences to exist between genres, the audial characteristics defining each genre must be distinct enough to enable differentiation.
 
@@ -35,7 +33,7 @@ _Average Instrumentalness Across Genres:_
 
 ![Average Instrumentalness Across Genres](images/AverageInstrumentalness.png)
 
-If one has a good model, it is possible to predict trends in genres, it should also be possible to predict genres based on trends.
+With a well-trained model, predicting trends in music genres becomes feasible, and consequently, predicting the genre of a song based on its audio attributes also becomes achievable.
 
 ### How to run locally
 1.	Go to https://colab.research.google.com (Internet connection and Gmail account required)
