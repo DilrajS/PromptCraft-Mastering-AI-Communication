@@ -1,4 +1,4 @@
-# Music-Genre-Analysis
+# Spotify - Music Analysis 
 ![](https://github.com/DilrajS/Music-Genre-Analysis/blob/master/images/DoE.png)
 
 ### Overview
