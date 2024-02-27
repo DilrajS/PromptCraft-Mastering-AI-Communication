@@ -1,2 +1,1 @@
-# Spotify-Music-Analysis
-Redirect to FlashAI
+# [Click here to redirect to FlashAI](https://github.com/DilrajS/FlashAI)
