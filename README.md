@@ -1,7 +1,6 @@
 # PromptCraft: Mastering AI Communication
 
-![PromptCraft](PromptCraft-Mastering-AI-Communication/images/PromptCraft.gif)
-
+![PromptCraft](images/PromptCraft.gif)
 
 A comprehensive exploration into the art and science of prompt engineering for AI models like ChatGPT, Google Bard, and beyond. This project is the culmination of extensive research, practical experimentation, and the application of prompt engineering in various contexts, including but not limited to Stable Diffusion and personal endeavors. The insights and methodologies presented here are derived from both scholarly resources and hands-on trials, aimed at both beginners and experienced practitioners looking to refine their skills in AI communication.
 
