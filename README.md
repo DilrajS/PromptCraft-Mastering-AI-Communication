@@ -8,9 +8,9 @@ PromptCraft is designed to demystify the process of prompt engineering, presenti
 
 ### What's Inside
 
-- **Crafting Effective Prompts**: A deep dive into the principles of prompt construction and optimization for maximum efficacy.
-- **Applying Prompts in Real-Life Scenarios**: Practical applications and case studies demonstrating the impact of well-engineered prompts across various domains.
-- **Continuous Learning in Prompt Engineering**: Strategies for staying ahead in prompt engineering through constant learning and adaptation.
+- **[Crafting Effective Prompts](Crafting_Effective_Prompts.md)**: A deep dive into the principles of prompt construction and optimization for maximum efficacy.
+- **[Applying Prompts in Real-Life Scenarios](Applying_Prompts_in_Real-Life_Scenarios.md)**: Practical applications and case studies demonstrating the impact of well-engineered prompts across various domains.
+- **[Continuous Learning in Prompt Engineering](Continuous_Learning_in_Prompt_Engineering.md)**: Strategies for staying ahead in prompt engineering through constant learning and adaptation.
 
 ## Getting Started
 
