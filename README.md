@@ -23,10 +23,6 @@ This guide assumes a foundational understanding of AI models and their interacti
 - Basic knowledge of AI and machine learning concepts
 - Familiarity with AI models like ChatGPT, Google Bard, etc.
 
-## Installation
-
-No specific installation required. This guide is accessible as a series of markdown files, designed for easy navigation and reference.
-
 ## Usage
 
 Dive into each section, starting with "Crafting Effective Prompts," and progress through real-life applications and continuous learning strategies. Implement the examples and techniques in your projects, experimenting with variations to discover what works best in different scenarios.
@@ -34,10 +30,6 @@ Dive into each section, starting with "Crafting Effective Prompts," and progress
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
