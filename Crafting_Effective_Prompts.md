@@ -1,5 +1,5 @@
 # Crafting Effective Prompts
-![PromptCraft](images/CraftingEffectivePrompts.gif)
+![PromptCraft](images/Crafting%20Effective%20Prompts.gif)
 
 ## Introduction to Prompt Engineering
 
