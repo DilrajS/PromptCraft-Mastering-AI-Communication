@@ -37,9 +37,10 @@ Special thanks to the AI and machine learning communities for their invaluable r
 
 Further gratitude is extended to the following YouTube channels for their educational content, which has played a pivotal role in the development of this project:
 
-- JeffSu: [https://www.youtube.com/@JeffSu](https://www.youtube.com/@JeffSu)
-- IBM Technology: [https://www.youtube.com/@IBMTechnology](https://www.youtube.com/@IBMTechnology)
 - freecodecamp.org: [https://www.youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp)
+- IBM Technology: [https://www.youtube.com/@IBMTechnology](https://www.youtube.com/@IBMTechnology)
+- JeffSu: [https://www.youtube.com/@JeffSu](https://www.youtube.com/@JeffSu)
+
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
