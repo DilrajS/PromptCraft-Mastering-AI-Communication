@@ -41,9 +41,19 @@ Further gratitude is extended to the following YouTube channels for their educat
 - IBM Technology: [https://www.youtube.com/@IBMTechnology](https://www.youtube.com/@IBMTechnology)
 - JeffSu: [https://www.youtube.com/@JeffSu](https://www.youtube.com/@JeffSu)
 
-
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+## Helpful Resources
+
+In your journey with AI and prompt engineering, these resources can offer valuable insights, examples, and communities to further enhance your understanding and skills:
+
+- **OpenAI Examples** ([https://platform.openai.com/examples](https://platform.openai.com/examples)): A comprehensive collection of examples and tutorials provided by OpenAI. This resource is invaluable for understanding how to interact with OpenAI's API, offering practical guidance on implementing various AI-driven tasks.
+
+- **Awesome ChatGPT Prompts** ([https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)): A curated list of creative and useful prompts for ChatGPT. Hosted on GitHub, this repository is a community-driven effort to gather the most interesting and effective prompts to inspire users to explore the capabilities of language models.
+
+- **ShareGPT** ([https://sharegpt.com/](https://sharegpt.com/)): A platform for sharing and discovering prompts for GPT models. ShareGPT allows users to contribute their own prompts and view those submitted by others, fostering a community of practice around prompt engineering and AI interaction.
+
+These resources are designed to support both beginners and advanced users in navigating the world of AI and prompt engineering, providing examples, best practices, and a space for sharing knowledge.
 
 ## Contact
 
