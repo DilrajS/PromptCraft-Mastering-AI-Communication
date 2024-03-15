@@ -33,8 +33,16 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Acknowledgements
 
-- Special thanks to the AI and machine learning communities for their invaluable resources and support.
-- Acknowledgment of personal projects and experiences in prompt engineering, including work on [FlashAI](https://github.com/DilrajS/FlashAI), Stable Diffusion, and others, that have contributed to the development of this guide.
+Special thanks to the AI and machine learning communities for their invaluable resources and support. Acknowledgment of personal projects and experiences in prompt engineering, including work on [FlashAI](https://github.com/DilrajS/FlashAI), Stable Diffusion, and others, that have contributed to the development of this guide.
+
+Further gratitude is extended to the following YouTube channels for their educational content, which has played a pivotal role in the development of this project:
+
+- JeffSu: [https://www.youtube.com/@JeffSu](https://www.youtube.com/@JeffSu)
+- IBM Technology: [https://www.youtube.com/@IBMTechnology](https://www.youtube.com/@IBMTechnology)
+- freecodecamp.org: [https://www.youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp)
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
 
 ## Contact
 
