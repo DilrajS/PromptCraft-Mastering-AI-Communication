@@ -1,5 +1,7 @@
 # Continuous Learning in Prompt Engineering
 
+![Continuous Learning in Prompt Engineering](images/Continuous%20Learning%20in%20Prompt%20Engineering.gif)
+
 ## Introduction
 
 The field of Artificial Intelligence (AI) is rapidly evolving, with new models and capabilities emerging regularly. To effectively leverage these advancements in prompt engineering, it's essential to cultivate a continuous learning mindset. This section explores strategies for ongoing education and skill enhancement in prompt engineering.
