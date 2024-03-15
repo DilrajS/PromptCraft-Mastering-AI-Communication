@@ -29,7 +29,7 @@ Dive into each section, starting with "Crafting Effective Prompts," and progress
 
 ## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+The open-source community thrives on contributions, making it an incredible space for learning, inspiration, and creativity.Any contributions you make are **greatly appreciated**.
 
 ## Acknowledgements
 
@@ -40,8 +40,6 @@ Further gratitude is extended to the following YouTube channels for their educat
 - freecodecamp.org: [https://www.youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp)
 - IBM Technology: [https://www.youtube.com/@IBMTechnology](https://www.youtube.com/@IBMTechnology)
 - JeffSu: [https://www.youtube.com/@JeffSu](https://www.youtube.com/@JeffSu)
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 ## Helpful Resources
 
