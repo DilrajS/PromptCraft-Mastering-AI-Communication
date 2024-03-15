@@ -1,5 +1,7 @@
 # Applying Prompts in Real-Life Scenarios
 
+![Continuous Learning in Prompt Engineering](images/Continuous%20Learning%20in%20Prompt%20Engineering.gif)
+
 ## Introduction
 
 Integrating prompt engineering into daily workflows transforms how we interact with AI, enhancing productivity and creativity. This section explores strategies for applying prompts effectively in various scenarios and highlights the impact of refined prompts on AI responses.
