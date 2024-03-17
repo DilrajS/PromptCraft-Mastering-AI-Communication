@@ -37,6 +37,7 @@ Special thanks to the AI and machine learning communities for their invaluable r
 
 Further gratitude is extended to the following YouTube channels for their educational content, which has played a pivotal role in the development of this project:
 
+- AI Foundations: [https://www.youtube.com/@ai-foundations](https://www.youtube.com/@ai-foundations)
 - freecodecamp.org: [https://www.youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp)
 - IBM Technology: [https://www.youtube.com/@IBMTechnology](https://www.youtube.com/@IBMTechnology)
 - JeffSu: [https://www.youtube.com/@JeffSu](https://www.youtube.com/@JeffSu)
