@@ -4,7 +4,7 @@
 
 ## Introduction to Prompt Engineering
 
-Prompt engineering is the art and science of crafting queries that elicit the most accurate and relevant responses from AI models, such as ChatGPT and Google Bard. It's a crucial skill for anyone looking to leverage AI for a wide range of applications, from automating tasks to generating creative content.
+Prompt engineering is the art and science of crafting queries that elicit the most accurate and relevant responses from AI models, such as ChatGPT and Google Gemini. It's a crucial skill for anyone looking to leverage AI for a wide range of applications, from automating tasks to generating creative content.
 
 ## Components of an Effective Prompt
 
